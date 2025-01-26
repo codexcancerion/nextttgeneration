@@ -171,7 +171,8 @@ Step-by-step guidance:
 ---
 
 ### **Additional**  
-- Convert the functions to arrow functions 
+- Convert the functions to arrow functions
+- Discuss ternary operations
 
 ---
 
