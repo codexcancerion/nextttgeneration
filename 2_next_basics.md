@@ -22,7 +22,7 @@
 **a. Create a New Next.js App**:  
 1. Run the following command:  
    ```bash
-   npx create-next-app@latest my-next-app
+   npx create-next-app@latest
    ```  
    (Assume Tailwind CSS is already pre-installed during the setup.)
 
